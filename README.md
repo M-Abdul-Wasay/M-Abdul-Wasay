@@ -1,7 +1,8 @@
 # Hi, I'm Wasay👋
 
-🎓 First-semester student at NUST  
-🌱 Learning Python, C++, HTML, CSS, and SQL  
-💻 Exploring coding through small projects and practice  
+🎓 Second-semester student at NUST
+💻 Learning and building with Python, C++, Java, HTML, CSS, and SQL
+🎮 Making small games and exploring game development
+🚀 Growing through projects, practice, and problem-solving every day
 
 ---
