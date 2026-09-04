@@ -1,29 +1,38 @@
-<h1 align="center">Hi, I'm Wasay 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+NUST;Building+engines%2C+renderers%2C+and+weird+side+projects;Currently+porting+a+game+from+Java+to+C%2B%2B%2FSFML;Probably+debugging+a+segfault+right+now" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:0F111A,100:1A1B27&height=180&section=header&text=~/wasay&fontColor=58A6FF&fontSize=48&fontAlignY=40&desc=CS%20Student%20%40%20NUST%20%7C%20Systems%20%2F%20Graphics%20%2F%20GameDev&descAlignY=62&descColor=8B949E&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CS_Student-NUST-0A66C2?style=for-the-badge&logo=academia&logoColor=white" alt="NUST CS">
-  <img src="https://img.shields.io/badge/OS-Linux_%2F_Windows-orange?style=for-the-badge&logo=linux&logoColor=white" alt="OS">
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-</p>
-
-<p align="center">
-I'm a computer science student who'd rather build the thing from scratch than import a library for it — engines, renderers, interpreters, whatever it takes to actually understand how it works underneath. When I'm not stuck on a segfault or a data structures assignment, I'm tweaking my Linux setup, building terminal tools, or losing lobbies in <b>Valorant</b>.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&background=0F111A00&center=true&vCenter=true&width=700&lines=%24+whoami;muhammad-abdul-wasay;%24+cat+status.txt;building+engines%2C+renderers%2C+and+weird+side+projects;%24+git+log+--oneline+-1;porting+Lost+in+NUST+from+Java+to+C%2B%2B%2FSFML..." alt="Typing SVG" />
 </p>
 
 <br>
 
-## 💻 Tech Stack & Tools
+## 💻 neofetch
+
+```
+
+muhammad@nust                     OS: CachyOS x86_64 / Windows
+─────────────                     WM: Hyprland
+                                   Shell: fish
+     /\                           Terminal: kitty
+    /  \        wasay@nust        Editor: neovim (LazyVim)
+   / /\ \                         ────────────────────────
+  / ____ \      Languages: C++, Java, Python, JS, SQL
+ /_/    \_\     GameDev: SFML, Dear ImGui, JavaFX
+                Tools: Git, CMake
+                Currently: rebuilding a Java game in raw C++
+
+```
+
+<br>
+
+**Game Dev & Graphics:** SFML · Dear ImGui · JavaFX
+**Workflow:** Neovim (LazyVim) · Kitty · Fish Shell · CachyOS / Hyprland
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,mysql,git,cmake,linux,windows&theme=dark" />
 </p>
-
-**Game Dev & Graphics:** SFML · Dear ImGui · JavaFX
-**Workflow:** Neovim (LazyVim) · Kitty · Fish Shell · CachyOS / Hyprland
 
 <br>
 
