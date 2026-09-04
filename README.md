@@ -11,7 +11,7 @@
 ## 💻 neofetch
 
 ```
-       _,met$$$$$gg.          muhammad@nust
+       _,met$$$$$gg.          wasay3t@gmail.com
     ,g$$$$$$$$$$$$$$$P.       ─────────────────────────
   ,g$$P""       """Y$$.".     OS: CachyOS x86_64 / Windows
  ,$$P'              `$$$.     WM: Hyprland
@@ -41,23 +41,23 @@
 
 <br>
 
-## 🚀 What I've Been Building
+##  What I've Been Building
 
-> 🎮 **Lost in NUST** — an original game (own art, own code) built for my OOP course in Java/JavaFX, now being rebuilt from scratch in C++ with SFML + ImGui.
+> **Lost in NUST** — an original game (own art, own code) built for my OOP course in Java/JavaFX, now being rebuilt from scratch in C++ with SFML + ImGui.
 
-> 🏠 **Zameen Lead** — a JavaFX desktop dashboard built for real estate brokers to manage leads and listings.
+> **Zameen Lead** — a JavaFX desktop dashboard built for real estate brokers to manage leads and listings.
 
-> 🖥️ **System Process Monitor & Diary App** — local desktop utilities built in C++ with SFML and Dear ImGui, no external frameworks.
+> **System Process Monitor & Diary App** — local desktop utilities built in C++ with SFML and Dear ImGui, no external frameworks.
 
-> ⌨️ **Terminal Typing Game** — a typing test that pulls real code snippets from live GitHub repos instead of generic sentences, built from scratch and deployed as a web app.
+> **Terminal Typing Game** — a typing test that pulls real code snippets from live GitHub repos instead of generic sentences, built from scratch and deployed as a web app.
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Abdul-Wasay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abdul-Wasay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Abdul-Wasay&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abdul-Wasay&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -65,18 +65,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Abdul-Wasay&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=M-Abdul-Wasay&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
 </p>
 
 <br>
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/M-Abdul-Wasay/M-Abdul-Wasay/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ⚠️ This one needs a one-time setup — GitHub Action below, then it animates itself. Skip if you don't want to bother, everything else works without it.
+> This one needs a one-time setup — GitHub Action below, then it animates itself. Skip if you don't want to bother, everything else works without it.
 
 <details>
 <summary>Snake setup (optional)</summary>
