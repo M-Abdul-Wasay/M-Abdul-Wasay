@@ -11,18 +11,23 @@
 ## 💻 neofetch
 
 ```
-
-muhammad@nust                     OS: CachyOS x86_64 / Windows
-─────────────                     WM: Hyprland
-                                   Shell: fish
-     /\                           Terminal: kitty
-    /  \        wasay@nust        Editor: neovim (LazyVim)
-   / /\ \                         ────────────────────────
-  / ____ \      Languages: C++, Java, Python, JS, SQL
- /_/    \_\     GameDev: SFML, Dear ImGui, JavaFX
-                Tools: Git, CMake
-                Currently: rebuilding a Java game in raw C++
-
+       _,met$$$$$gg.          muhammad@nust
+    ,g$$$$$$$$$$$$$$$P.       ─────────────────────────
+  ,g$$P""       """Y$$.".     OS: CachyOS x86_64 / Windows
+ ,$$P'              `$$$.     WM: Hyprland
+',$$P       ,ggs.     `$$b:   Shell: fish
+`d$$'     ,$P"'   .    $$$    Terminal: kitty
+ $$P      d$'     ,    $$P    Editor: neovim (LazyVim)
+ $$:      $$.   -    ,d$$'    ─────────────────────────
+ $$;      Y$b._   _,d$P'      Languages: C++, Java, Python, JS, SQL
+ Y$$.    `.`"Y$$$$P"'         GameDev: SFML, Dear ImGui, JavaFX
+ `$$b      "-.__              Tools: Git, CMake
+  `Y$$                        Currently: rebuilding Lost in NUST in raw C++
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `""""
 ```
 
 <br>
@@ -64,6 +69,56 @@ muhammad@nust                     OS: CachyOS x86_64 / Windows
 </p>
 
 <br>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-Abdul-Wasay/M-Abdul-Wasay/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> ⚠️ This one needs a one-time setup — GitHub Action below, then it animates itself. Skip if you don't want to bother, everything else works without it.
+
+<details>
+<summary>Snake setup (optional)</summary>
+
+Create `.github/workflows/snake.yml` in this repo with:
+
+```yaml
+name: generate snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: M-Abdul-Wasay
+          outputs: dist/github-contribution-grid-snake-dark.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push it, let the Action run once, and the snake image above will start working.
+
+</details>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>Building things from scratch, one segfault at a time.</sub>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=M-Abdul-Wasay&style=for-the-badge&color=blue" alt="Profile views" />
