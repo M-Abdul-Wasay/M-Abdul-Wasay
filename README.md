@@ -1,9 +1,17 @@
+<h1 align="center">
+  hey, I'm Wasay <img src="https://raw.githubusercontent.com/copperwall/copperwall/master/wave.gif" width="30px" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:0F111A,100:1A1B27&height=180&section=header&text=~/wasay&fontColor=58A6FF&fontSize=48&fontAlignY=40&desc=CS%20Student%20%40%20NUST%20%7C%20Systems%20%2F%20Graphics%20%2F%20GameDev&descAlignY=62&descColor=8B949E&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:0F111A,100:1A1B27&height=160&section=header&text=~/wasay&fontColor=58A6FF&fontSize=42&fontAlignY=40&desc=CS%20Student%20%40%20NUST%20%7C%20Systems%20%2F%20Graphics%20%2F%20GameDev&descAlignY=62&descColor=8B949E&descSize=16&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&background=0F111A00&center=true&vCenter=true&width=700&lines=%24+whoami;muhammad-abdul-wasay;%24+cat+status.txt;building+engines%2C+renderers%2C+and+weird+side+projects;%24+git+log+--oneline+-1;porting+Lost+in+NUST+from+Java+to+C%2B%2B%2FSFML..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&background=0F111A00&center=true&vCenter=true&width=750&lines=%24+whoami;a+CS+student+who%27d+rather+build+it+than+import+it;%24+cat+status.txt;currently+porting+Lost+in+NUST+from+Java+to+raw+C%2B%2B%2FSFML;%24+neofetch+--ask;why+do+you+use+arch%3F+because+it+works;%24+echo+%24MOTIVATION;ten-year-old+me+who+loved+Minecraft+would+be+proud" alt="Typing SVG" />
+</p>
+
+<p align="center">
+I like taking the long way round — building the engine instead of using one, writing the interpreter instead of importing it, so I actually understand what's happening under the hood. Most of what's below started as "how hard could this actually be" and turned into a few sleepless weeks. When I'm not doing that, I'm tuning my Linux setup way more than is healthy, or losing ranked games in <b>Valorant</b>.
 </p>
 
 <br>
@@ -41,15 +49,15 @@
 
 <br>
 
-## 🚀 What I've Been Building
+## 🚀 what I've been building
 
-> 🎮 **Lost in NUST** — an original game (own art, own code) built for my OOP course in Java/JavaFX, now being rebuilt from scratch in C++ with SFML + ImGui.
+> 🎮 **Lost in NUST** — my own game, my own art, built for an OOP course in Java/JavaFX. I liked it enough that I'm now tearing it down and rebuilding the whole thing from scratch in C++ with SFML + ImGui, just to see how much better I can make it the second time around.
 
-> 🏠 **Zameen Lead** — a JavaFX desktop dashboard built for real estate brokers to manage leads and listings.
+> 🏠 **Zameen Lead** — a JavaFX dashboard I built for real estate brokers to actually manage their leads without five spreadsheets open at once.
 
-> 🖥️ **System Process Monitor & Diary App** — local desktop utilities built in C++ with SFML and Dear ImGui, no external frameworks.
+> 🖥️ **System Process Monitor & Diary App** — a couple of desktop tools in C++ with SFML and Dear ImGui, no frameworks doing the heavy lifting, because I wanted to know what was actually happening under the hood.
 
-> ⌨️ **Terminal Typing Game** — a typing test that pulls real code snippets from live GitHub repos instead of generic sentences, built from scratch and deployed as a web app.
+> ⌨️ **Terminal Typing Game** — a typing test that pulls real code straight from live GitHub repos instead of "the quick brown fox" for the 10,000th time. Built from scratch, deployed as an actual web app.
 
 <br>
 
@@ -117,7 +125,7 @@ Push it, let the Action run once, and the snake image above will start working.
 ---
 
 <p align="center">
-  <sub>Building things from scratch, one segfault at a time.</sub>
+  <sub>still breaking things on purpose to figure out how they work — thanks for scrolling this far 👋</sub>
 </p>
 
 <p align="center">
